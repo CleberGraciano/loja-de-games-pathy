@@ -14,9 +14,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Turma34</name>
 	<description>Projeto Blog Pessoal Turma 34 Spring Boot</description>
-	<properties>
-		<java.version>11</java.version>
-	</properties>
+
 	<dependencies>
 
 		<dependency>
